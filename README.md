@@ -1,4 +1,4 @@
 # curso-git
 Repositório do Curso de Git do Senai.
 
-2022
+Fevereiro de 2022
